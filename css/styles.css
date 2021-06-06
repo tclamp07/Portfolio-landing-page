@@ -1,0 +1,48 @@
+li {
+  color:blue
+}
+
+body{
+  background-image: url(https://wallpaperaccess.com/full/1285438.jpg);
+}
+
+h1 {
+  text-align: center;
+  font-size: large;
+}
+
+p.intro {
+  font-size: large;
+  font-style:italic;
+  float:left;
+}
+
+p.middle1 {
+  font-size:large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow';
+  float:right;
+}
+
+p.middle2 {
+  font-size:large;
+  float:inline-end
+}
+
+p.outro {
+  font-size:large;
+  float: right;
+}
+
+.intro1 {
+  width: 500px;
+}
+
+span {
+  color:white;
+}
+
+body {
+  margin:10px;
+  border:20px;
+  padding:10px;
+}
